@@ -10,13 +10,12 @@ Skittle Grinder was developed to support the forensics collection and baselining
 <br>
 - Follow the prompts at the beginning of the script!<br>
 <br>
-# Notes <br>
+# Notes<br>
 This script is intended to be used as a forensics and baselining tool. <br>
 <br>
 Files are able to be uploaded to Splunk. <br>
 <br>
-# Planned <br>
-
+# Planned<br>
 HTTP or GUI support in order to compare results against a baseline.<br>
 <br>
 Allow Skittles to go out to a network, decide what systems are Linux, and run on those systems remotely.<br>
