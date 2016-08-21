@@ -6,11 +6,9 @@ Skittle Grinder was developed to support the forensics collection and baselining
 ####### Execution <br>
 - This script needs root permissions in order to run.<br>
 <br>
-- ./skittles.sh <br>
-<br>
 - Occasionally, you need to modify the permissions: chmod 711 ./skittles.sh<br>
 <br>
-- Finally, follow the prompts at the beginning of the script!<br>
+- Follow the prompts at the beginning of the script!<br>
 <br>
 ####### Notes <br>
 
