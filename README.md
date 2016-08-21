@@ -8,7 +8,6 @@ This script needs root permissions in order to run.<br>
 <br>
 ./skittles.sh <br>
 <br>
-<br>
 Occasionally, you need to modify the permissions: chmod 711 ./skittles.sh<br>
 <br>
 Finally, follow the prompts at the beginning of the script!<br>
