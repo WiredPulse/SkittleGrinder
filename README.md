@@ -16,7 +16,7 @@ This script is intended to be used as a forensics and baselining tool. <br>
 <br>
 Files are able to be uploaded to Splunk. <br>
 <br>
-####### Planned <br>
+# Planned <br>
 
 HTTP or GUI support in order to compare results against a baseline.<br>
 <br>
@@ -26,6 +26,6 @@ Allow Skittles to go out to a network, decide what systems are Linux, and run on
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. <br>
 <br>
-##########################################<br>
+
 # PLEASE, CONTINUE TO TASTE THE RAINBOW! #<br>
-##########################################<br>
+
