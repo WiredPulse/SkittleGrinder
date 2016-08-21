@@ -1,16 +1,16 @@
 # SkittleGrinder
-####### Description of Project <br>
+# Description of Project <br>
 
 Skittle Grinder was developed to support the forensics collection and baselining of current popular flavors of Linux machines. The script is designed to pull the information, tar and zip it. It then creates a MD5 hash. Skittles needs root permissions in order to pull everything it needs.<br>
 
-####### Execution <br>
+# Execution <br>
 - This script needs root permissions in order to run.<br>
 <br>
 - Occasionally, you need to modify the permissions: chmod 711 ./skittles.sh<br>
 <br>
 - Follow the prompts at the beginning of the script!<br>
 <br>
-####### Notes <br>
+# Notes <br>
 
 This script is intended to be used as a forensics and baselining tool. <br>
 <br>
