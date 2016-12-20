@@ -1,7 +1,7 @@
 # SkittleGrinder
 # Description of Project <br>
 
-![Alt text](https://github.com/WiredPulse/SkittleGrinder/blob/master/Grinder.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/WiredPulse/SkittleGrinder/blob/master/Grinder.png?raw=true "Optional Title")
 
 Skittle Grinder was developed to support the forensics collection and baselining of current popular flavors of Linux machines. The script is designed to pull the information, tar and zip it. It then creates a MD5 hash. Skittles needs root permissions in order to pull everything it needs.<br>
 
